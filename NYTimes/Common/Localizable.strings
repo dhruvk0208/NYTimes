@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NYTimes
+ 
+*/
+
+"homeNavTitle" = "Home";
+"detailNavTitle" = "Article Details";
+"apiError" = "Something went wrong";
+"calenderIcon" = "🗓️";
